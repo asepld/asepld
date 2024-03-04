@@ -11,7 +11,7 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: Учусь в It hub
+- :telescope: Учусь в КПВК
 
 - :seedling: Завершил курсы по веб-разработке 
 
